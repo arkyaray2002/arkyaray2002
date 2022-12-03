@@ -23,8 +23,6 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/ArkyaRay" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ayushsi56599415?logo=twitter&style=for-the-badge" alt="https://twitter.com/arkyaray2002" /></a> </p> -->
 
-<!-- -⚡ Fun fact **Typing keyboards used to be arranged alphabetically.**-->
-
 
 <h3 align="left">Current Status</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -33,7 +31,7 @@
 
 - 👨‍💻 All of my projects are available at [git@github:ArkyaRay](https://github.com/arkyaray2002)
 
-- ⚡ Fun Fact: **Typing keyboards used to be arranged alphabetically.**
+- ⚡ Fun Fact: **Instead of learning Programming Language, we can teach Computer ENGLISH.**
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 <br>
