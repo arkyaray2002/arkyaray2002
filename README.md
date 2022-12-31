@@ -47,7 +47,7 @@
 <h3 align="left">🛠️ Languages and Frameworks 🛠️</h3>
 <p align="left">
 <a href="#" target="blank">
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,c,cpp,php,html,css,wordpress,ps,powershell,prisma,blender" />
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,c,cpp,php,html,css,wordpress,ps,pr,powershell,visualstudio,vscode,prisma,blender,github,git,bash" />
 </a>
 </p>
 
