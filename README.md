@@ -47,7 +47,7 @@
 <h3 align="left">🛠️ Languages and Frameworks 🛠️</h3>
 <p align="left">
 <a href="#" target="blank">
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,c,cpp,php,html,css,wordpress,ps,pr,powershell,visualstudio,vscode,prisma,blender,github,git,bash" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,php,html,css,wordpress,ps,pr,powershell,prisma,blender,git,bash" />
 </a>
 </p>
 
@@ -61,7 +61,7 @@
 <h3 align="left">🛠️ Android Development 🛠️</h3>
 <p align="left">
 <a href="#" target="blank">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java" />
 </a>
 </p>
 
