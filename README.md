@@ -54,7 +54,7 @@
 <h3 align="left">🛠️ Web Development 🛠️</h3>
 <p align="left">
 <a href="#" target="blank">
-<img src="https://skillicons.dev/icons?i=js,php,html,css,wordpress" />
+<img src="https://skillicons.dev/icons?i=html,css,php,js,wordpress" />
 </a>
 </p>
 
