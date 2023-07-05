@@ -47,14 +47,14 @@
 <h3 align="left">🛠️ Languages and Frameworks 🛠️</h3>
 <p align="left">
 <a href="#" target="blank">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,php,html,css,wordpress,ps,pr,powershell,prisma,blender,git,bash" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,php,js,html,css,wordpress,ps,pr,powershell,prisma,blender,git,linux,bash" />
 </a>
 </p>
 
 <h3 align="left">🛠️ Web Development 🛠️</h3>
 <p align="left">
 <a href="#" target="blank">
-<img src="https://skillicons.dev/icons?i=php,html,css,wordpress" />
+<img src="https://skillicons.dev/icons?i=js,php,html,css,wordpress" />
 </a>
 </p>
 
