@@ -1,3 +1,7 @@
+<center><img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" style="max-width: 100%;"> </center>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
+
 <h1 align="center">Hi 👋, I'm Arkya Ray</h1>
 <p align="center">
 <a href="https://github.com/supratim531/supratim531"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;An%20Aspiring%20Competitive%20Coder%20😶&font=Fira%20Code&center=true&width=500&height=45&color=51FF00&vCenter=true&size=23"></a>
